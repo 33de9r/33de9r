@@ -2,7 +2,7 @@
 - 👀 I’m interested in art!
 - 🌱 I’m currently learning HTML & CSS.
 - 💞️ I’m looking to collaborate on a short video game!
-- 📫 How to reach me @chenjiayu2033@gmail.com.
+- 📫 How to reach me @jiayu.c.work@gmail.com.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a dog :)
 
