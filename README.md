@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @33de9r
+- 👋 Hi, I’m Jiayu!
 - 👀 I’m interested in art!
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on a short video game!
-- 📫 How to reach me @jiayu.c.work@gmail.com.
+- 📫 How to reach me: @jiayu.c.work@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a dog :)
 
